@@ -2,7 +2,7 @@
    GLOBAL
 =========================== */
 body {
-    background-color: #0a0f14;
+    background-image: url(../images/3af12cfbcafff410dc4fa9117a18760f.jpg);
     color: white;
     font-family: "Segoe UI", sans-serif;
     padding-top: 70px; /* espace pour la navbar */
@@ -74,7 +74,7 @@ h1, h2, h3, h4 {
 =========================== */
 .hero {
     height: 100vh;
-    background: linear-gradient(135deg, #0d6efd 20%, #00ff88 80%);
+    background-image: url(../images/malware-infection-takes-down-airline-reservation-system-159988_1.jpg);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -129,7 +129,7 @@ h1, h2, h3, h4 {
    CARDS (pour projets, skills)
 =========================== */
 .custom-card {
-    background: #0d1117;
+    background-color: #000;
     border: 1px solid #0d6efd55;
     border-radius: 12px;
     padding: 25px;
