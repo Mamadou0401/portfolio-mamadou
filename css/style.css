@@ -2,7 +2,9 @@
    GLOBAL
 =========================== */
 body {
-    background-image: url(../images/3af12cfbcafff410dc4fa9117a18760f.jpg);
+    background-image:
+    linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.55)),
+    url(../images/3af12cfbcafff410dc4fa9117a18760f.jpg);
     color: white;
     font-family: "Segoe UI", sans-serif;
     padding-top: 70px; /* espace pour la navbar */
@@ -12,9 +14,7 @@ h1, h2, h3, h4 {
     font-weight: 700;
 }
 
-/* ===========================
-   NAVBAR (STYLE ASEST)
-=========================== */
+
 .custom-nav {
     background: #0d1117;
     padding: 12px 0;
@@ -74,7 +74,8 @@ h1, h2, h3, h4 {
 =========================== */
 .hero {
     height: 100vh;
-    background-image: url(../images/malware-infection-takes-down-airline-reservation-system-159988_1.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.55)),
+    url(../images/malware-infection-takes-down-airline-reservation-system-159988_1.jpg);
     display: flex;
     justify-content: center;
     align-items: center;
